@@ -1,5 +1,18 @@
 == README
 
+=== User Story: Product Tracking System
+
+A user should be able to...
+
+1. See an index of all products
+2. Add a new product to the site
+3. Edit an existing product
+4. Delete an existing product
+5. See the details of a particular product
+
+
+
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
