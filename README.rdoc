@@ -11,6 +11,7 @@ A user should be able to...
 4. Delete an existing product
 5. See the details of a particular product:
   - Quantity of product
+  - Price of product
   - Product name
   - Product description
   - Product category
