@@ -2,9 +2,9 @@
 
 === User Story: Product Tracking System
 
-A user should be able to...
+A user can...
 
-1. Login/Logout/Register
+1. (Ice Boxed) Login/Logout/Register
 2. See an index of all products
 2. Add a new product to the site
 3. Edit an existing product
