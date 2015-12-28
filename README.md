@@ -1,1 +1,0 @@
-# rails-online-shop
