@@ -9,9 +9,13 @@ A user should be able to...
 3. Edit an existing product
 4. Delete an existing product
 5. See the details of a particular product
+  - Quantity of product
+  - Product name
+  - Product description
+  - Product category?
+  - Product location (instock, out of stock, in transit?, etc?)
 
-
-
+---
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
