@@ -4,7 +4,8 @@
 
 A user should be able to...
 
-1. See an index of all products
+1. Login/Logout/Register
+2. See an index of all products
 2. Add a new product to the site
 3. Edit an existing product
 4. Delete an existing product
@@ -14,7 +15,7 @@ A user should be able to...
   - Product description
   - Product category
   - Product location (in stock, out of stock, in transit?, etc?)
-6. Login/Logout/Register
+
 
 ---
 
